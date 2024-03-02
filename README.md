@@ -17,6 +17,8 @@ But if we take into account the cost of re-casting a product, we have to minimiz
 
 On test dataset, the model achieves a very good result as follow:
 
+CONFUSION MATRIX:-
+
 Accuracy: 99.44%
 Recall: 99.78%
 Precision: 99.34%
